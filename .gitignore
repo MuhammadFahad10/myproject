@@ -1,0 +1,6 @@
+# Ignore note modules folder
+mode_modules/
+.env
+*.log
+.Ds_store
+Thumbs.db
